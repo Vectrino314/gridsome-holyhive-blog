@@ -26,7 +26,8 @@ fields:
     display_utc: true
 - name: tags
   type: tag_list
-  default: []
+  default:
+  - Jesus
   description: Category tags that post falls in
   label: Tags
 - name: post_bg_color
