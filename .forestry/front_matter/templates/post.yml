@@ -1,0 +1,59 @@
+---
+label: Post
+hide_body: false
+fields:
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: Thumbnail
+  description: This will show up on the card element
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: Title of the post
+  default: Title
+- name: datetime
+  type: datetime
+  label: Date
+  description: The date that the post was created
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: true
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+  description: Category tags that post falls in
+- name: post_bg_color
+  type: color
+  label: Background Color
+  config:
+    required: false
+    color_format: Hex
+  description: Background color of the post if we want to differentiate from the theme
+- name: post_fg_color
+  type: color
+  label: Foreground Color
+  config:
+    required: false
+    color_format: Hex
+  description: Foreground color of the post
+- name: author
+  type: select
+  default: Laney D. Fowler
+  config:
+    required: true
+    options:
+    - Laney D. Fowler
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
+  description: Author of the document
