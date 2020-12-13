@@ -40,7 +40,12 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Blog',
-        path: './content/blog/**/*.md',
+        path: 'posts/**/*.md',
+        resolveAbsolutePaths: true,
+        remark: {
+          externalLinksTarget: "_blank",
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+        },
         refs: {
           author: 'Author',
           tags: {
