@@ -11,7 +11,7 @@ created: 2020-12-13T00:00:00Z
 tags:
 - Jesus
 - God
-category: ''
+category: God
 excerpt: This is the blog exerpt and thus is the excerpt
 image_caption: This is lola
 featured: true
