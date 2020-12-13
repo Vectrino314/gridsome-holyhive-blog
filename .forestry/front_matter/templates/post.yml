@@ -43,3 +43,17 @@ fields:
     required: false
     color_format: Hex
   description: Foreground color of the post
+- name: author
+  type: select
+  default: Laney D. Fowler
+  config:
+    required: true
+    options:
+    - Laney D. Fowler
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Author
+  description: Author of the document
