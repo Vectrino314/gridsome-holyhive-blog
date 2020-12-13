@@ -62,7 +62,10 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - God
+    - Jesus
+    - Holy
     source:
       type: simple
       section: 
