@@ -1,0 +1,43 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  description: Short snippet that will show outside of the actual post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    display_utc: true
+    date_format: YYYY-MM-DD
+    time_format: ''
+    export_format: YYYY-MM-DD
+  default: now
+- type: tag_list
+  name: categories
+  label: Categories
+- type: select
+  name: author
+  config:
+    source:
+      type: simple
+      section: authors
+      file: data/authors/nichlas-w-andersen.json
+    required: true
+    options:
+    - Laney D. Fowler'
+    - Victor A. Solis
+  label: Author
+  default: Laney D. Fowler
+pages:
+- journal/macos-development-environment.md
