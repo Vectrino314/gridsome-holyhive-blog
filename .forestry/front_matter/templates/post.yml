@@ -24,12 +24,6 @@ fields:
     date_format: 
     time_format: 
     display_utc: true
-- name: tags
-  type: tag_list
-  default:
-  - Jesus
-  description: Category tags that post falls in
-  label: Tags
 - name: post_bg_color
   type: color
   label: Background Color
@@ -89,5 +83,12 @@ fields:
 - name: featured
   type: boolean
   label: Featured
+- name: tags
+  type: text
+  config:
+    required: true
+  label: Tags
+  description: Tags separated by a comma
+  default: jesus, god
 pages:
 - posts/testing.md
