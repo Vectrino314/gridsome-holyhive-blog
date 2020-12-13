@@ -2,7 +2,7 @@
 label: Post
 hide_body: false
 fields:
-- name: thumbnail
+- name: image
   type: file
   config:
     maxSize: 64
@@ -15,20 +15,20 @@ fields:
   label: Title
   description: Title of the post
   default: Title
-- name: datetime
+- name: created
   type: datetime
-  label: Date
+  label: Created
   description: The date that the post was created
   config:
     required: true
     date_format: 
     time_format: 
     display_utc: true
-- name: categories
+- name: tags
   type: tag_list
   default: []
-  label: Categories
   description: Category tags that post falls in
+  label: Tags
 - name: post_bg_color
   type: color
   label: Background Color
@@ -57,5 +57,36 @@ fields:
       path: 
   label: Author
   description: Author of the document
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - God
+    - Jesus
+    - Holy
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Category of Posts
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
+  description: Excerpt of blog
+- name: image_caption
+  type: text
+  config:
+    required: false
+  label: Image Caption
+  description: Caption of thumbnail
+- name: featured
+  type: boolean
+  label: Featured
 pages:
 - posts/testing.md
