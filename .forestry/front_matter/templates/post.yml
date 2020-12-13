@@ -57,3 +57,5 @@ fields:
       path: 
   label: Author
   description: Author of the document
+pages:
+- posts/testing.md
