@@ -16,7 +16,7 @@ module.exports = function (api) {
   api.onCreateNode(options => {
     if (options.internal.typeName === 'Blog') {
       options.featured = (options.featured) ? options.featured : false;
-      options.tags = (typeof options.tags === 'string') ? options.tags.split('-').map(string => string.trim()) : options.tags;
+      options.tags = (typeof options.tags === 'string') ? options.tags.split(',').map(string => string.trim()) : options.tags;
       options.author = (typeof options.author === 'string') ? options.author.split(',').map(string => string.trim()) : options.author;
       return {
         ...options
