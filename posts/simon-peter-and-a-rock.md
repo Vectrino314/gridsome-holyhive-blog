@@ -15,8 +15,10 @@ image_caption: Peter and a Rock
 featured: false
 
 ---
+<p align="center">
 ![](../uploads/peter_rock.png "Matthew 16:18")
-
+</p>
+  
 There has been dispute amongst Catholics, Protestants, and the Orthodox about Papal authority and whether or not it is biblical. Today’s readings provide us a moment to reflect on the truth of the authority given to Peter by Jesus through a connection made from the Old Testament to the New Testament. Before we begin our reflection, it is necessary to be familiar with the terms _typology_ and _type._ Typology is a certain form of symbolism specifically used for comparing persons or things of the Old Testament to the New Testament. A type is the person or thing spoken of in the Old Testament that foreshadows to a person or thing in the New Testament. The New Testament person or thing is the fulfillment of the person or thing from the Old Testament. Keeping these terms in mind, lets continue.
 
 In Isaiah 22:19-23, God says he is going to clothe Eliakim with the robe and sash of Shebna, who is the master of the palace, and He will give Eliakim his _authority_. God further says he will place the _key_ of the House of David on Eliakim’s shoulders and “when he opens, no one shall shut when he shuts, no one shall open. I will fix him like a peg in a sure spot”. Remembering our typology/type terms, let’s begin to make some connections.
