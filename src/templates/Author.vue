@@ -18,6 +18,15 @@
           {{ $page.author.belongsTo.totalCount }} {{ postLabel }}
           &nbsp;&bull;&nbsp;
           <a
+            :href="$page.author.instagram"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-gray-400 hover:text-white"
+          >
+            <font-awesome :icon="['fab', 'instagram']" />
+          </a>
+          &nbsp;
+          <a
             :href="$page.author.facebook"
             target="_blank"
             rel="noopener noreferrer"
@@ -78,6 +87,7 @@
       image(width:150, height:150)
       cover
       facebook
+      instagram
       twitter
       linkedin
       belongsTo(perPage: 6, page: $page) @paginate {
