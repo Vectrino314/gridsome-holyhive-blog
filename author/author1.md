@@ -8,6 +8,6 @@ facebook: ''
 twitter: ''
 linkedin: ''
 image: "../uploads/laney_headshot.jpg"
-cover: "../uploads/meme4.jpg"
+cover: "../uploads/meme3.jpg"
 
 ---
