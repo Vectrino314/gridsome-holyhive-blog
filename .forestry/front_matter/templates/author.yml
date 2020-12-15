@@ -67,4 +67,5 @@ fields:
   description: Cover photo for the author page
 pages:
 - author/Laney D. Fowler.md
+- author/author1.md
 - author/author2.md
