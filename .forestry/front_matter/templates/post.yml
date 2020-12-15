@@ -91,4 +91,5 @@ fields:
   description: Tags separated by a comma
   default: jesus, god
 pages:
+- posts/simon-peter-and-a-rock.md
 - posts/testing.md
