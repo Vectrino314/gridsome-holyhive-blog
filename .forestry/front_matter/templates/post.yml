@@ -8,6 +8,12 @@ fields:
     maxSize: 64
   label: Thumbnail
   description: This will show up on the card element
+- name: author
+  type: text
+  config:
+    required: true
+  label: Author ID
+  description: ID of the author
 - name: title
   type: text
   config:
@@ -38,20 +44,6 @@ fields:
     required: false
     color_format: Hex
   description: Foreground color of the post
-- name: author
-  type: select
-  default: Laney D. Fowler
-  config:
-    required: true
-    options:
-    - Laney D. Fowler
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Author
-  description: Author of the document
 - name: category
   type: select
   default: []
@@ -68,6 +60,13 @@ fields:
       path: 
   label: Category
   description: Category of Posts
+- name: tags
+  type: text
+  config:
+    required: true
+  label: Tags
+  description: Tags separated by a comma
+  default: jesus, god
 - name: excerpt
   type: text
   config:
@@ -83,13 +82,6 @@ fields:
 - name: featured
   type: boolean
   label: Featured
-- name: tags
-  type: text
-  config:
-    required: true
-  label: Tags
-  description: Tags separated by a comma
-  default: jesus, god
 pages:
 - posts/simon-peter-and-a-rock.md
 - posts/testing.md
