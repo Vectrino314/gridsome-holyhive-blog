@@ -2,6 +2,13 @@
 label: Author
 hide_body: true
 fields:
+- name: id
+  type: text
+  config:
+    required: true
+  label: ID
+  description: id of the author that is used for writing an article
+  default: author
 - name: name
   type: text
   config:
@@ -18,12 +25,6 @@ fields:
       format: markdown
   label: Bio
   description: Biography of the author
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Avatar
-  description: Avatar of the author
 - name: instagram
   type: text
   config:
@@ -31,13 +32,6 @@ fields:
   label: Instagram
   description: Instagram link
   default: https://www.instagram.com
-- name: id
-  type: text
-  config:
-    required: true
-  label: ID
-  description: id of the author that is used for writing an article
-  default: author
 - name: facebook
   type: text
   config:
@@ -59,6 +53,12 @@ fields:
   label: LinkedIn
   description: LinkedIn link
   default: https://www.linkedin.com
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Avatar
+  description: Avatar of the author
 - name: cover
   type: file
   config:
