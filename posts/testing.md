@@ -1,10 +1,9 @@
 ---
 title: testing
-categories: []
-author: Laney D. Fowler
+author: author1
 post_bg_color: "#594040"
 post_fg_color: "#B14242"
-image: "/uploads/lola.jpg"
+image: "../uploads/lola.jpg"
 created: 2020-12-13T00:00:00.000+00:00
 tags: Jesus, God, Holy
 category: God
@@ -14,3 +13,6 @@ featured: true
 
 ---
 flksdjfl;aksjdflkajsdl;fkjasl;kdjfa;lksdjfl;
+
+Need to update the forestry app to incude all the front matter that is currently enabled
+

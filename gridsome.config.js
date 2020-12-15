@@ -33,7 +33,7 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Author',
-        path: './content/author/*.md'
+        path: 'author/**/*.md'
       }
     },
     {
@@ -41,11 +41,6 @@ module.exports = {
       options: {
         typeName: 'Blog',
         path: 'posts/**/*.md',
-        resolveAbsolutePaths: true,
-        remark: {
-          externalLinksTarget: "_blank",
-          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-        },
         refs: {
           author: 'Author',
           tags: {

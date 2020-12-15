@@ -7,8 +7,7 @@ id: author1
 facebook: ''
 twitter: ''
 linkedin: ''
-image: "/uploads/laney_headshot.jpg"
-cover: "/uploads/meme4.jpg"
-title: author1
+image: "../uploads/laney_headshot.jpg"
+cover: "../uploads/meme4.jpg"
 
 ---
