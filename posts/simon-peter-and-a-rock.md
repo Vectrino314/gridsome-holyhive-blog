@@ -1,6 +1,6 @@
 ---
 title: Simon, Peter, and a Rock
-author: Laney D. Fowler
+author: author1
 category: God
 tags: Jesus
 image: "../uploads/peter_rock.png"
