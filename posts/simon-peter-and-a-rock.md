@@ -18,16 +18,16 @@ featured: false
 <p align="center">
 ![](../uploads/peter_rock.png "Matthew 16:18")
 </p>
-  
+
 There has been dispute amongst Catholics, Protestants, and the Orthodox about Papal authority and whether or not it is biblical. Today’s readings provide us a moment to reflect on the truth of the authority given to Peter by Jesus through a connection made from the Old Testament to the New Testament. Before we begin our reflection, it is necessary to be familiar with the terms _typology_ and _type._ Typology is a certain form of symbolism specifically used for comparing persons or things of the Old Testament to the New Testament. A type is the person or thing spoken of in the Old Testament that foreshadows to a person or thing in the New Testament. The New Testament person or thing is the fulfillment of the person or thing from the Old Testament. Keeping these terms in mind, lets continue.
 
 In Isaiah 22:19-23, God says he is going to clothe Eliakim with the robe and sash of Shebna, who is the master of the palace, and He will give Eliakim his _authority_. God further says he will place the _key_ of the House of David on Eliakim’s shoulders and “when he opens, no one shall shut when he shuts, no one shall open. I will fix him like a peg in a sure spot”. Remembering our typology/type terms, let’s begin to make some connections.
 
-**1. David is the type to Jesus**
+### **1. David is the type to Jesus**
 
 In the Old Testament David is the King of Israel and in the New Testament Jesus is not only the King of the Jews, but all the earth.
 
-**2. Eliakim is the type to Peter.**
+### **2. Eliakim is the type to Peter.**
 
 In Isaiah, Eliakim becomes the “prime minister” to the House of David, or his right-hand man. In this role, Eliakim is given the keys of the kingdom. David owns the keys, but they have been bestowed upon or given to Eliakim.
 
@@ -35,7 +35,7 @@ Now let’s jump forward.
 
 In today’s Gospel reading (Matthew 16:13-20), we see a mirroring or fulfillment of Isaiah when keeping these types in mind. In Matthew Jesus asks “who do you say that I am?”. Simon responds “You are the Christ, the Son of the living God.”. Jesus then says “Blessed are you, _Simon_” and explains that nothing, but His heavenly Father could have revealed this to him. Jesus then tells Simon that he is _Peter,_ and upon this rock I will build my church…I will give _you_ the _keys_ to the kingdom of heaven. Whatever you bind on earth shall be bound in heaven; and whatever you loose on earth shall be loosed in heaven. There are many things to note here:
 
-1. **Simon’s name change to Peter**
+**1. Simon’s name change to Peter**
 
 Name changes in the Bible are significant. We see this when Abram becomes Abraham for example. This occurred when God bestowed something significant upon him. He was made new by a name change and they signify just that: something has changed.
 
@@ -47,11 +47,21 @@ Jesus spoke Aramaic and it would be safe to assume that He was speaking it here 
 
 This is seen when Christ gives him the _keys_ to the kingdom of heaven just as God gave them to Eliakim in Isaiah. When we look at these comparisons in chart form it becomes very clear:
 
-| --- | --- |
-| Old Testament“I will place the key of the House of David on his shoulders” | New Testament“I will give you keys to the kingdom of heaven” |
-| “when he opens, no one shall shut when he shuts, no one shall open” | “whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven” |
-| David is King | Jesus is King |
-| Eliakim is the Prime Minister | Peter is the Vicar “Prime Minister” of Jesus Christ |
+<table>
+  <tbody>
+    <tr>
+      **Old Testament
+    </tr>
+  </tbody>
+ </table>
+ 
+ Old Testament
+“I will place the key of the House of David on his shoulders”	New Testament
+“I will give you keys to the kingdom of heaven”
+“when he opens, no one shall shut when he shuts, no one shall open”	“whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven”
+David is King 	Jesus is King
+Eliakim is the Prime Minister 	Peter is the Vicar “Prime Minister” of Jesus Christ
+
 
 Notably, Isaiah explicitly says Eliakim is given Shebna’s authority as master of the palace. If Eliakim is the type to Peter then it would follow that Peter is given authority in place of Christ here on earth. Christ knew he was going to die. Who would continue to lead and guide His people to Him once He died? It was necessary to establish someone as the lead Shepard in His place until He returns.
 
