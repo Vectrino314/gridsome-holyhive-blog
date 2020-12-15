@@ -18,7 +18,7 @@ fields:
       format: markdown
   label: Bio
   description: Biography of the author
-- name: avatar
+- name: image
   type: file
   config:
     maxSize: 64
@@ -30,5 +30,40 @@ fields:
     required: false
   label: Instagram
   description: Instagram link
+  default: https://www.instagram.com
+- name: id
+  type: text
+  config:
+    required: true
+  label: ID
+  description: id of the author that is used for writing an article
+  default: author
+- name: facebook
+  type: text
+  config:
+    required: false
+  label: Facebook
+  description: Facebook link
+  default: https://www.facebook.com
+- name: twitter
+  type: text
+  config:
+    required: false
+  label: Twitter
+  description: Twitter link
+  default: https://www.twitter.com
+- name: linkedin
+  type: text
+  config:
+    required: false
+  label: LinkedIn
+  description: LinkedIn link
+  default: https://www.linkedin.com
+- name: cover
+  type: file
+  config:
+    maxSize: 64
+  label: Cover Photo
+  description: Cover photo for the author page
 pages:
 - author/Laney D. Fowler.md
