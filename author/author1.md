@@ -7,7 +7,7 @@ id: author1
 facebook: ''
 twitter: ''
 linkedin: ''
-image: "../uploads/laney_headshot.jpg"
-cover: "../uploads/meme3.jpg"
+image: https://holyhivemedia.s3.us-east-2.amazonaws.com/laney_headshot.jpg
+cover: https://holyhivemedia.s3.us-east-2.amazonaws.com/hermit kawaii.jpg
 
 ---
