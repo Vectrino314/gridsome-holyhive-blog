@@ -3,7 +3,7 @@ title: Simon, Peter, and a Rock
 author: author1
 category: God
 tags: Jesus
-image: "../uploads/peter_rock.png"
+image: https://holyhivemedia.s3.us-east-2.amazonaws.com/peter_rock.png
 created: 2020-08-24T00:00:00.000+00:00
 post_bg_color: "#E99C9C"
 post_fg_color: "#C51A1A"
@@ -15,7 +15,7 @@ image_caption: Peter and a Rock
 featured: false
 
 ---
-![](../uploads/peter_rock.png)
+![](https://holyhivemedia.s3.us-east-2.amazonaws.com/peter_rock.png)
 
 There has been dispute amongst Catholics, Protestants, and the Orthodox about Papal authority and whether or not it is biblical. Today’s readings provide us a moment to reflect on the truth of the authority given to Peter by Jesus through a connection made from the Old Testament to the New Testament. Before we begin our reflection, it is necessary to be familiar with the terms _typology_ and _type._ Typology is a certain form of symbolism specifically used for comparing persons or things of the Old Testament to the New Testament. A type is the person or thing spoken of in the Old Testament that foreshadows to a person or thing in the New Testament. The New Testament person or thing is the fulfillment of the person or thing from the Old Testament. Keeping these terms in mind, lets continue.
 
@@ -45,13 +45,11 @@ Jesus spoke Aramaic and it would be safe to assume that He was speaking it here 
 
 This is seen when Christ gives him the _keys_ to the kingdom of heaven just as God gave them to Eliakim in Isaiah. When we look at these comparisons in chart form it becomes very clear:
 
-### Table Title
-
 | Old Testament | New Testament |
-| ------ | ------ |
-| Cell   | Cell   |
-| Cell   | Cell   |
-| Cell   | Cell   |
+| --- | --- |
+| Cell | Cell |
+| Cell | Cell |
+| Cell | Cell |
 
 Notably, Isaiah explicitly says Eliakim is given Shebna’s authority as master of the palace. If Eliakim is the type to Peter then it would follow that Peter is given authority in place of Christ here on earth. Christ knew he was going to die. Who would continue to lead and guide His people to Him once He died? It was necessary to establish someone as the lead Shepard in His place until He returns.
 
