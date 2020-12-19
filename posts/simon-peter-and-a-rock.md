@@ -3,7 +3,7 @@ title: Simon, Peter, and a Rock
 author: author1
 category: God
 tags: Jesus
-image: https://holyhivemedia.s3.us-east-2.amazonaws.com/peter_rock.png
+image: "../uploads/peter_rock.png"
 created: 2020-08-24T00:00:00.000+00:00
 post_bg_color: "#E99C9C"
 post_fg_color: "#C51A1A"
