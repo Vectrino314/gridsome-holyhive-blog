@@ -1,9 +1,9 @@
 ---
-title: Another post-(copy)
+title: And another
 category: Jesus
 tags: jesus, god
 image: "../uploads/peter_rock.png"
-author: author1
+author: author2
 created: 2020-12-17T00:00:00Z
 post_bg_color: ''
 post_fg_color: ''
