@@ -83,6 +83,7 @@ fields:
   type: boolean
   label: Featured
 pages:
+- posts/another-post-copy-1.md
 - posts/another-post-copy.md
 - posts/simon-peter-and-a-rock.md
 - posts/testing.md
