@@ -1,8 +1,8 @@
 ---
-title: Title
+title: Another post
 category: Jesus
 tags: jesus, god
-image: "../uploads/meme4.jpg"
+image: "../uploads/peter_rock.png"
 author: author1
 created: 2020-12-17T00:00:00Z
 post_bg_color: ''
