@@ -1,5 +1,5 @@
 ---
-title: Another post-(copy)
+title: Yet another
 category: Jesus
 tags: jesus, god
 image: "../uploads/peter_rock.png"
